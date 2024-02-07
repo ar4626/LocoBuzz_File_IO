@@ -26,7 +26,14 @@ namespace File_IO
 
             File.Delete(@"F:\LOCOBUZZ\File_IO\copy.txt");
             File.Copy(filePath, @"F:\LOCOBUZZ\File_IO\copy.txt");
+
+            string[] text = File.ReadAllLines(filePath);
             
+            string atext = File.ReadAllText(filePath);
+
+            Console.WriteLine("this is for readAllLines" + text);
+
+            Console.WriteLine("this is for readAllLines \n" + atext);
 
         }
     }
