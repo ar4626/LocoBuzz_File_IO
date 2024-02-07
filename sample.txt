@@ -1,1 +1,2 @@
 I study In SRMIST
+ This is an extra line added to the previous text file
