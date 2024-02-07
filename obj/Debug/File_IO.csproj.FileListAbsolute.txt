@@ -1,0 +1,7 @@
+F:\LOCOBUZZ\File_IO\bin\Debug\File_IO.exe.config
+F:\LOCOBUZZ\File_IO\bin\Debug\File_IO.exe
+F:\LOCOBUZZ\File_IO\bin\Debug\File_IO.pdb
+F:\LOCOBUZZ\File_IO\obj\Debug\File_IO.csproj.AssemblyReference.cache
+F:\LOCOBUZZ\File_IO\obj\Debug\File_IO.csproj.CoreCompileInputs.cache
+F:\LOCOBUZZ\File_IO\obj\Debug\File_IO.exe
+F:\LOCOBUZZ\File_IO\obj\Debug\File_IO.pdb
