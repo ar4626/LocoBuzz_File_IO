@@ -20,9 +20,12 @@ namespace File_IO
 
             string multiple_line_string = "My name is Ankit Raj. \nI am a MERN Stack. \nI am at SRM IST";
 
-            //File.AppendAllText(filePath, multiple_line_string);
+            File.WriteAllText(filePath, multiple_line_string);
 
             File.AppendAllText(filePath, multiple_line_string);
+
+            File.Delete(@"F:\LOCOBUZZ\File_IO\copy.txt");
+            File.Copy(filePath, @"F:\LOCOBUZZ\File_IO\copy.txt");
             
 
         }
